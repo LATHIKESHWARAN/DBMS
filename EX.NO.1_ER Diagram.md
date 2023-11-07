@@ -13,10 +13,12 @@
 5. Specify attributes unique, multivalued and composite attributes.
 
 ### ER Diagram 
+![Screenshot 2023-11-07 152052](https://github.com/DrUmaRaniV/DBMS/assets/119393556/ddd3012e-8f35-43f2-add3-32a8aa36cab7)
 
 
 ### Relational model
 
+![Screenshot 2023-11-07 152124](https://github.com/DrUmaRaniV/DBMS/assets/119393556/3fb2b46a-b214-45a6-8731-efdd5809d75c)
 
 ### SQL DDL Schema 
 
